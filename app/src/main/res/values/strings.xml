@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GeoQuizKotlin</string>
+    <string name="trueBtn">TRUE</string>
+    <string name="falseBtn">FALSE</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="nextBtn">Next</string>
+    <string name="prevBtn">PREV</string>
+    <string name="cheatBtn">CHEAT!</string>
+    <string name="warning_text">Are you sure you want to do this? </string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="judgment_toast">Cheating is wrong</string>
+    <string name="answer">Answer</string>
+</resources>
